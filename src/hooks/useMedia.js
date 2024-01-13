@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React Hook useMedia
-|
-|  🐯 Purpose: FINDS OUT DIFFERENT MEDIA QUERIES ( USED FOR THEME TOGGLE )
-|
-|  🐸 Returns: -
-*-------------------------------------------------------------------*/
+
+// Purpose: FINDS OUT DIFFERENT MEDIA QUERIES ( USED FOR THEME TOGGLE )
 
 import { useEffect, useState } from 'react'
 

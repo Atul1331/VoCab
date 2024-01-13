@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC Home
-|
-|  🐯 Purpose: HOME PAGE COMPONENT FOR THE REACT ROUTER
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: HOME PAGE COMPONENT FOR THE REACT ROUTER
 
 import { AnimatePresence } from 'framer-motion'
 import { Word, SearchBox, NoWords, NotFound } from '../components'

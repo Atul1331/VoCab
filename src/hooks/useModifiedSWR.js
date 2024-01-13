@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React Hook useModifiedSWR
-|
-|  🐯 Purpose: HANDLES API REQUESTS
-|
-|  🐸 Returns: DIFFERENT STATES OF AN API REQUEST AND API DATA
-*-------------------------------------------------------------------*/
+
+// Purpose: HANDLES API REQUESTS
 
 import axios from 'axios'
 import useSWR from 'swr'

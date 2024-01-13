@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React Hook useScrollDirection
-|
-|  🐯 Purpose: FINDS THE WINDOW'S SCROLL POSITION
-|
-|  🐸 Returns:  WINDOW SCROLL POSITION
-*-------------------------------------------------------------------*/
+
+// Purpose: FINDS THE WINDOW'S SCROLL POSITION
 
 import * as React from 'react'
 

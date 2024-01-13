@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC NoWords / NotFound
-|
-|  🐯 Purpose: DISPLAYS BANNERS WHEN THERE IS NO WORD OR NO API DATA
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: DISPLAYS BANNERS WHEN THERE IS NO WORD OR NO API DATA
 
 import Lottie from 'lottie-react'
 import yellyEmojiNo from '../lotties/yelly-emoji-no.json'
@@ -29,7 +24,7 @@ export const NoWords = () => {
           typing anything in the above searchbox.
         </p>
         <p className="px-6 py-3 font-medium text-purple-600 bg-purple-100 rounded-full dark:bg-[#2D153F] dark:text-purple-400">
-          #Woman_Life_Freedom
+          #Search_Anyword
         </p>
       </div>
     </Wrapper>

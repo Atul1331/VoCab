@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC Layout
-|
-|  🐯 Purpose: APP LAYOUT FOR THE REACT-ROUTER-DOM
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: APP LAYOUT FOR THE REACT-ROUTER-DOM
 
 import { Outlet } from 'react-router-dom'
 import { Navigation } from './'

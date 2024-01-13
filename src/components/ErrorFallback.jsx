@@ -1,10 +1,6 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC ErrorFallback
-|
-|  🐯 Purpose: USED TO DISPLAY ERRORS IN BROKEN COMPONENTS
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+ // Purpose: USED TO DISPLAY ERRORS IN BROKEN COMPONENTS
+
+
 
 export const ErrorFallback = () => {
     return (

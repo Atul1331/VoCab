@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React Hook useLocalStorage
-|
-|  🐯 Purpose: HANDLES LOCAL STORAGE INTERACTIONS
-|
-|  🐸 Returns: STORED VALUES IN LOCAL STORAGE AND A FN TO SET NEW VALUES
-*-------------------------------------------------------------------*/
+
+// Purpose: HANDLES LOCAL STORAGE INTERACTIONS
 
 const { useState } = require('react')
 

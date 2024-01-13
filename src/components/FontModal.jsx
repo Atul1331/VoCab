@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC FontModal
-|
-|  🐯 Purpose: USERS CAN SELECT DIFFERENT FONTS BY OPENING THIS MODAL
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: USERS CAN SELECT DIFFERENT FONTS BY OPENING THIS MODAL
 
 import { useFont } from '../context'
 import cn from 'classnames'

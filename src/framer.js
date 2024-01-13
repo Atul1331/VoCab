@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 Framer Motion Animations
-|
-|  🐯 Purpose: DIFFERENT FRAMER MOTION ANIMATIONS TO USE IN COMPONENTS
-|
-|  🐸 Returns:  -
-*-------------------------------------------------------------------*/
+
+// Purpose: DIFFERENT FRAMER MOTION ANIMATIONS TO USE IN COMPONENTS
 
 export const framer_modal = {
     initial: { opacity: 0, y: 10 },

@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React CTX DictionaryContext
-|
-|  🐯 Purpose: HANDLES DICTIONARY STATES GLOBALLY
-|
-|  🐸 Returns: CTX PROVIDER / CTX HOOK
-*-------------------------------------------------------------------*/
+
+// Purpose: HANDLES DICTIONARY STATES GLOBALLY
 
 import { useContext, createContext, useState, useEffect } from 'react'
 import { useSearchParams } from 'react-router-dom'

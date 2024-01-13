@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC FontToggle
-|
-|  🐯 Purpose: ALLOWS USERS TO TOGGLE BETWEEN DIFFERENT FONTS
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: ALLOWS USERS TO TOGGLE BETWEEN DIFFERENT FONTS
 
 import { AnimatePresence } from 'framer-motion'
 import { useRef, useState } from 'react'

@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC SubSection
-|
-|  🐯 Purpose: DISPLAYS THE SEARCHED WORD DETAILS
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: DISPLAYS THE SEARCHED WORD DETAILS
 
 export const SubSection = ({ data }) => {
     const { partOfSpeech, definitions } = data

@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC Navigation
-|
-|  🐯 Purpose: APP NAVIGATION BAR
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: APP NAVIGATION BAR
 
 import { FontToggle, ThemeToggle } from './index'
 

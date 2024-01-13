@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 APP ROUTES
-|
-|  🐯 Purpose: AN ARRAY WHICH CONTAINS ALL THE APP'S ROUTES
-|
-|  🐸 Returns:  -
-*-------------------------------------------------------------------*/
+
+// Purpose: AN ARRAY WHICH CONTAINS ALL THE APP'S ROUTES
 
 import { Home } from './index'
 

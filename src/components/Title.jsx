@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC Title
-|
-|  🐯 Purpose: DISPLAYS WORD'S TITLE INFO AND AUDIO
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: DISPLAYS WORD'S TITLE INFO AND AUDIO
 
 import React, { useEffect, useRef, useState } from 'react'
 import { HiSpeakerWave } from 'react-icons/hi2'

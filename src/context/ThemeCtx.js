@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React CTX ThemeContext
-|
-|  🐯 Purpose: TOGGLE APP'S THEME GLOBALLY
-|
-|  🐸 Returns: CTX PROVIDER / CTX HOOK
-*-------------------------------------------------------------------*/
+
+// Purpose: TOGGLE APP'S THEME GLOBALLY
 
 import { useContext, createContext } from 'react'
 import { useDarkMode } from '../hooks'

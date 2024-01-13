@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC Word
-|
-|  🐯 Purpose: DISPLAYS THE SEARCHED WORD'S TITLE AND INFORMATION
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: DISPLAYS THE SEARCHED WORD'S TITLE AND INFORMATION
 
 import { Title, SubSection, ErrorFallback } from './'
 import { motion } from 'framer-motion'

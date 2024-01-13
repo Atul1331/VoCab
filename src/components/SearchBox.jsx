@@ -1,10 +1,5 @@
-/*-------------------------------------------------------------------
-|  🐼 React FC SearchBox
-|
-|  🐯 Purpose: ALLOWS USERS TO SEARCH FOR DIFFERENT WORDS
-|
-|  🐸 Returns:  JSX
-*-------------------------------------------------------------------*/
+
+// Purpose: ALLOWS USERS TO SEARCH FOR DIFFERENT WORDS
 
 import { useState } from 'react'
 import { HiSearch } from 'react-icons/hi'
@@ -49,7 +44,7 @@ export const SearchBox = () => {
             id="search"
             type="text"
             className="w-full p-3 rounded-md md:p-5 bg-light-200 dark:bg-dark-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-100"
-            placeholder="start typing ..."
+            placeholder="start searching ..."
             onChange={inputChanged}
             defaultValue={word}
           />
@@ -57,7 +52,7 @@ export const SearchBox = () => {
             {word && isLoading ? (
               <Loading />
             ) : (
-              <HiSearch className="mt-[0.1rem] text-xl text-primary-100" />
+              <HiSearch className="mt-[0.1rem] text-xl cursor-pointer text-primary-100" />
             )}
           </div>
         </div>
